@@ -1,0 +1,74 @@
+[
+  {
+    "rescheduleId": "RES_TRIP_GREEN_027_db85",
+    "tripId": "TRIP_GREEN_027",
+    "originalDeparture": "2025-06-01T19:00:00",
+    "originalArrival": "2025-06-01T19:55:00",
+    "newDeparture": "2025-06-27 00:00",
+    "newArrival": "2025-06-27 00:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_GREEN_030_e15a",
+    "tripId": "TRIP_GREEN_030",
+    "originalDeparture": "2025-06-01T20:30:00",
+    "originalArrival": "2025-06-01T21:25:00",
+    "newDeparture": "2025-06-01 00:00",
+    "newArrival": "2025-06-01 00:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_GREEN_010_d4d9",
+    "tripId": "TRIP_GREEN_010",
+    "originalDeparture": "2025-06-01T10:30:00",
+    "originalArrival": "2025-06-01T11:25:00",
+    "newDeparture": "2025-06-07 00:00",
+    "newArrival": "2025-06-07 00:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_RED_004_ab4d",
+    "tripId": "TRIP_RED_004",
+    "originalDeparture": "2025-06-01T07:30:00",
+    "originalArrival": "2025-06-01T07:50:00",
+    "newDeparture": "2025-06-01 00:00",
+    "newArrival": "2025-06-01 00:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_GREEN_028_6c03",
+    "tripId": "TRIP_GREEN_028",
+    "originalDeparture": "2025-06-01T19:30:00",
+    "originalArrival": "2025-06-01T20:25:00",
+    "newDeparture": "2025-06-02T08:30:00",
+    "newArrival": "2025-06-02T09:25:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_GREEN_007_a83e",
+    "tripId": "TRIP_GREEN_007",
+    "originalDeparture": "2025-06-01T09:00:00",
+    "originalArrival": "2025-06-01T09:55:00",
+    "newDeparture": "2025-06-02T07:30:00",
+    "newArrival": "2025-06-02T08:25:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_RED_015_d1a5",
+    "tripId": "TRIP_RED_015",
+    "originalDeparture": "2025-06-01T13:00:00",
+    "originalArrival": "2025-06-01T13:20:00",
+    "newDeparture": "2025-06-02T07:35:00",
+    "newArrival": "2025-06-02T07:55:00",
+    "status": "Confirmed"
+  },
+  {
+    "rescheduleId": "RES_TRIP_GREEN_005_289f",
+    "tripId": "TRIP_GREEN_005",
+    "originalDeparture": "2025-06-01T08:00:00",
+    "originalArrival": "2025-06-01T08:55:00",
+    "newDeparture": "2025-06-07T14:30:00",
+    "newArrival": "2025-06-07T15:25:00",
+    "status": "Confirmed"
+  }
+]
