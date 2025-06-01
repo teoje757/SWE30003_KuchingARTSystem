@@ -21,8 +21,7 @@
       "SM12",
       "SM13",
       "SM14"
-    ],
-    "basePrice": 7.0
+    ]
   },
   {
     "routeId": "ROUTE_RED",
@@ -38,8 +37,7 @@
       "SR9",
       "SR10",
       "SR11"
-    ],
-    "basePrice": 3.0
+    ]
   },
   {
     "routeId": "ROUTE_GREEN",
@@ -62,7 +60,6 @@
       "DM09",
       "DM09A",
       "DM10"
-    ],
-    "basePrice": 6.5
+    ]
   }
 ]

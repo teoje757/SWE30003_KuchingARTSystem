@@ -11,8 +11,7 @@
     "routeId": "ROUTE_BLUE",
     "tripDepartureTime": "2025-06-01T06:30:00",
     "tripArrivalTime": "2025-06-01T07:15:00",
-    "tripStatus": "Started",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_BLUE_003",
@@ -152,8 +151,7 @@
     "routeId": "ROUTE_BLUE",
     "tripDepartureTime": "2025-06-01T16:30:00",
     "tripArrivalTime": "2025-06-01T17:15:00",
-    "tripStatus": "Scheduled",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_BLUE_023",
@@ -188,8 +186,7 @@
     "routeId": "ROUTE_BLUE",
     "tripDepartureTime": "2025-06-01T19:00:00",
     "tripArrivalTime": "2025-06-01T19:45:00",
-    "tripStatus": "Started",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_BLUE_028",
@@ -217,8 +214,7 @@
     "routeId": "ROUTE_RED",
     "tripDepartureTime": "2025-06-01T06:00:00",
     "tripArrivalTime": "2025-06-01T06:20:00",
-    "tripStatus": "Started",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_RED_002",
@@ -237,18 +233,16 @@
   {
     "tripId": "TRIP_RED_004",
     "routeId": "ROUTE_RED",
-    "tripDepartureTime": "2025-06-01 00:00",
-    "tripArrivalTime": "2025-06-01 00:00",
-    "tripStatus": "Rescheduled",
-    "tripRescheduleTime": "2025-06-01"
+    "tripDepartureTime": "2025-06-01T07:30:00",
+    "tripArrivalTime": "2025-06-01T07:50:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_RED_005",
     "routeId": "ROUTE_RED",
     "tripDepartureTime": "2025-06-01T08:00:00",
     "tripArrivalTime": "2025-06-01T08:20:00",
-    "tripStatus": "Cancelled",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_RED_006",
@@ -316,10 +310,9 @@
   {
     "tripId": "TRIP_RED_015",
     "routeId": "ROUTE_RED",
-    "tripDepartureTime": "2025-06-02T07:35:00",
-    "tripArrivalTime": "2025-06-02T07:55:00",
-    "tripStatus": "Rescheduled",
-    "tripRescheduleTime": "2025-06-02T07:35:00"
+    "tripDepartureTime": "2025-06-01T13:00:00",
+    "tripArrivalTime": "2025-06-01T13:20:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_RED_016",
@@ -340,8 +333,7 @@
     "routeId": "ROUTE_RED",
     "tripDepartureTime": "2025-06-01T14:30:00",
     "tripArrivalTime": "2025-06-01T14:50:00",
-    "tripStatus": "Cancelled",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_RED_019",
@@ -355,8 +347,7 @@
     "routeId": "ROUTE_RED",
     "tripDepartureTime": "2025-06-01T15:30:00",
     "tripArrivalTime": "2025-06-01T15:50:00",
-    "tripStatus": "Completed",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_RED_021",
@@ -426,8 +417,7 @@
     "routeId": "ROUTE_RED",
     "tripDepartureTime": "2025-06-01T20:30:00",
     "tripArrivalTime": "2025-06-01T20:50:00",
-    "tripStatus": "Started",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_001",
@@ -441,8 +431,7 @@
     "routeId": "ROUTE_GREEN",
     "tripDepartureTime": "2025-06-01T06:30:00",
     "tripArrivalTime": "2025-06-01T07:25:00",
-    "tripStatus": "Scheduled",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_003",
@@ -461,10 +450,9 @@
   {
     "tripId": "TRIP_GREEN_005",
     "routeId": "ROUTE_GREEN",
-    "tripDepartureTime": "2025-06-07T14:30:00",
-    "tripArrivalTime": "2025-06-07T15:25:00",
-    "tripStatus": "Rescheduled",
-    "tripRescheduleTime": "2025-06-07T14:30:00"
+    "tripDepartureTime": "2025-06-01T08:00:00",
+    "tripArrivalTime": "2025-06-01T08:55:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_006",
@@ -476,10 +464,9 @@
   {
     "tripId": "TRIP_GREEN_007",
     "routeId": "ROUTE_GREEN",
-    "tripDepartureTime": "2025-06-02T07:30:00",
-    "tripArrivalTime": "2025-06-02T08:25:00",
-    "tripStatus": "Rescheduled",
-    "tripRescheduleTime": "2025-06-02T07:30:00"
+    "tripDepartureTime": "2025-06-01T09:00:00",
+    "tripArrivalTime": "2025-06-01T09:55:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_008",
@@ -498,10 +485,9 @@
   {
     "tripId": "TRIP_GREEN_010",
     "routeId": "ROUTE_GREEN",
-    "tripDepartureTime": "2025-06-07 00:00",
-    "tripArrivalTime": "2025-06-07 00:00",
-    "tripStatus": "Cancelled",
-    "tripRescheduleTime": "2025-06-07"
+    "tripDepartureTime": "2025-06-01T10:30:00",
+    "tripArrivalTime": "2025-06-01T11:25:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_011",
@@ -522,8 +508,7 @@
     "routeId": "ROUTE_GREEN",
     "tripDepartureTime": "2025-06-01T12:00:00",
     "tripArrivalTime": "2025-06-01T12:55:00",
-    "tripStatus": "Started",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_014",
@@ -614,39 +599,34 @@
     "routeId": "ROUTE_GREEN",
     "tripDepartureTime": "2025-06-01T18:30:00",
     "tripArrivalTime": "2025-06-01T19:25:00",
-    "tripStatus": "Scheduled",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_027",
     "routeId": "ROUTE_GREEN",
-    "tripDepartureTime": "2025-06-27 00:00",
-    "tripArrivalTime": "2025-06-27 00:00",
-    "tripStatus": "Rescheduled",
-    "tripRescheduleTime": "2025-06-27"
+    "tripDepartureTime": "2025-06-01T19:00:00",
+    "tripArrivalTime": "2025-06-01T19:55:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_028",
     "routeId": "ROUTE_GREEN",
-    "tripDepartureTime": "2025-06-02T08:30:00",
-    "tripArrivalTime": "2025-06-02T09:25:00",
-    "tripStatus": "Rescheduled",
-    "tripRescheduleTime": "2025-06-02T08:30:00"
+    "tripDepartureTime": "2025-06-01T19:30:00",
+    "tripArrivalTime": "2025-06-01T20:25:00",
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_029",
     "routeId": "ROUTE_GREEN",
     "tripDepartureTime": "2025-06-01T20:00:00",
     "tripArrivalTime": "2025-06-01T20:55:00",
-    "tripStatus": "Completed",
-    "tripRescheduleTime": null
+    "tripStatus": "Scheduled"
   },
   {
     "tripId": "TRIP_GREEN_030",
     "routeId": "ROUTE_GREEN",
-    "tripDepartureTime": "2025-06-01 00:00",
-    "tripArrivalTime": "2025-06-01 00:00",
-    "tripStatus": "Completed",
-    "tripRescheduleTime": "2025-06-01"
+    "tripDepartureTime": "2025-06-01T20:30:00",
+    "tripArrivalTime": "2025-06-01T21:25:00",
+    "tripStatus": "Scheduled"
   }
 ]

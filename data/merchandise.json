@@ -1,0 +1,34 @@
+[
+    {
+        "merchandiseId": "M001",
+        "merchandiseName": "T-Shirt",
+        "merchandiseDescription": "Comfortable cotton T-shirt with ART logo",
+        "merchandisePrice": 20.0,
+        "merchandiseStock": 5995,
+        "merchandiseCategory": "Clothing"
+    },
+    {
+        "merchandiseId": "M002",
+        "merchandiseName": "Cap",
+        "merchandiseDescription": "Stylish cap with adjustable strap",
+        "merchandisePrice": 15.0,
+        "merchandiseStock": 6000,
+        "merchandiseCategory": "Accessories"
+    },
+    {
+        "merchandiseId": "M003",
+        "merchandiseName": "Water Bottle",
+        "merchandiseDescription": "500ml eco-friendly water bottle",
+        "merchandisePrice": 10.0,
+        "merchandiseStock": 4230,
+        "merchandiseCategory": "Utilities"
+    },
+    {
+        "merchandiseId": "M004",
+        "merchandiseName": "Keychain",
+        "merchandiseDescription": "Metal keychain with ART engraving",
+        "merchandisePrice": 7.5,
+        "merchandiseStock": 7600,
+        "merchandiseCategory": "Souvenirs"
+    }
+]

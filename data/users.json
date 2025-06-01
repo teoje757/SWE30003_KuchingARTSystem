@@ -1,0 +1,155 @@
+{
+    "123456789111": {
+        "userID": 123456789111,
+        "userEmail": "qwe@gmail.com",
+        "userName": "asd",
+        "userPassword": "zxc",
+        "userContactNumber": 123456789,
+        "userRole": "user",
+        "trips": [
+            "Trip A - Station 1 to Station 3"
+        ],
+        "loyalty_points": 11,
+        "merchandise": [
+            [
+                "T-Shirt",
+                1,
+                20.0
+            ],
+            [
+                "Keychain",
+                2,
+                7.5
+            ],
+            [
+                "Cap",
+                2,
+                15.0
+            ],
+            [
+                "Cap",
+                3,
+                15.0
+            ],
+            [
+                "Cap",
+                5,
+                15.0
+            ],
+            [
+                "Water Bottle",
+                4,
+                10.0
+            ],
+            [
+                "Cap",
+                5,
+                15.0
+            ],
+            [
+                "T-Shirt",
+                5,
+                20.0
+            ],
+            [
+                "Cap",
+                5,
+                15.0
+            ],
+            [
+                "Cap",
+                5,
+                15.0
+            ],
+            [
+                "Keychain",
+                12,
+                7.5
+            ],
+            [
+                "Water Bottle",
+                5,
+                10.0
+            ],
+            [
+                "Water Bottle",
+                32,
+                10.0
+            ],
+            [
+                "Cap",
+                5,
+                15.0
+            ],
+            [
+                "Keychain",
+                520,
+                7.5
+            ],
+            [
+                "Water Bottle",
+                45,
+                10.0
+            ]
+        ],
+        "merch_spent": 5435.0
+    },
+    "123456789101": {
+        "userID": 123456789101,
+        "userEmail": "abc@example.com",
+        "userName": "John Doe",
+        "userPassword": "zxc",
+        "userContactNumber": 123456789,
+        "userRole": "user",
+        "trips": [],
+        "loyalty_points": 0,
+        "merchandise": [
+            [
+                "T-Shirt",
+                5,
+                20.0
+            ]
+        ],
+        "merch_spent": 100.0
+    },
+    "5977476b-ccec-4cd6-aa2f-da20b074b3fd": {
+        "userID": "5977476b-ccec-4cd6-aa2f-da20b074b3fd",
+        "userEmail": "zxc@gmail.com",
+        "userName": "Nick",
+        "userPassword": "Qwerty@12345678",
+        "userContactNumber": "60123456789",
+        "userRole": "user",
+        "trips": [
+            "Trip B - Station 2 to Station 4"
+        ],
+        "loyalty_points": 10,
+        "merchandise": [
+            [
+                "T-Shirt",
+                100,
+                20.0
+            ],
+            [
+                "Cap",
+                250,
+                15.0
+            ],
+            [
+                "Keychain",
+                100,
+                7.5
+            ],
+            [
+                "Keychain",
+                100,
+                7.5
+            ],
+            [
+                "T-Shirt",
+                5,
+                20.0
+            ]
+        ],
+        "merch_spent": 7350.0
+    }
+}
