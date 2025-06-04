@@ -1,0 +1,58 @@
+[
+  {
+    "line": "Green Line",
+    "prefix": "DM",
+    "stations": [
+      { "stationId": "SR12", "stationName": "Pending (Interchange)" },
+      { "stationId": "DM01", "stationName": "Pending" },
+      { "stationId": "DM02", "stationName": "Darul Hana" },
+      { "stationId": "DM03", "stationName": "Wisma Bapa Malaysia" },
+      { "stationId": "DM04", "stationName": "Menara Pelita" },
+      { "stationId": "DM05", "stationName": "Stadium" },
+      { "stationId": "DM05AP", "stationName": "Waterfront" },
+      { "stationId": "DM06", "stationName": "Yayasan Sarawak" },
+      { "stationId": "DM07", "stationName": "Bandar Baru Samariang" },
+      { "stationId": "DM07AP", "stationName": "Pasir Panjang" },
+      { "stationId": "DM08", "stationName": "Sg. Batu" },
+      { "stationId": "DM08AP", "stationName": "Cove 55" },
+      { "stationId": "DM09", "stationName": "Santubong" },
+      { "stationId": "DM09A", "stationName": "Damai Golf Course" },
+      { "stationId": "DM10", "stationName": "Damai Central" }
+    ]
+  },
+  {
+    "line": "Red Line",
+    "prefix": "SR",
+    "stations": [
+      { "stationId": "SR05", "stationName": "Kuching Sentral" },
+      { "stationId": "SR06", "stationName": "Kuching International Airport" },
+      { "stationId": "SR07", "stationName": "Pelita Height" },
+      { "stationId": "SR08", "stationName": "Jln Tun Jugah" },
+      { "stationId": "SR09", "stationName": "Swinburne / Simpang Tiga" },
+      { "stationId": "SR10", "stationName": "JPN (Interchange)" },
+      { "stationId": "SR11", "stationName": "Jalan Tun Razak" },
+      { "stationId": "SR12", "stationName": "Pending (Interchange)" }
+    ]
+  },
+  {
+    "line": "Blue Line",
+    "prefix": "SM",
+    "stations": [
+      { "stationId": "SM00P", "stationName": "Rembus" },
+      { "stationId": "SM01", "stationName": "Summer Mall" },
+      { "stationId": "SM02", "stationName": "Aiman Mall" },
+      { "stationId": "SM03", "stationName": "SALCRA / UiTM" },
+      { "stationId": "SM04", "stationName": "Unimas" },
+      { "stationId": "SM05", "stationName": "Sarawak Heart Centre" },
+      { "stationId": "SM06", "stationName": "Riveria" },
+      { "stationId": "SM07", "stationName": "Stutong" },
+      { "stationId": "SM08", "stationName": "eMart" },
+      { "stationId": "SM09", "stationName": "Vivacity / Wisma Wan" },
+      { "stationId": "SR10", "stationName": "JPN (Interchange)" },
+      { "stationId": "SM11", "stationName": "The Spring" },
+      { "stationId": "SM12", "stationName": "Batu Lintang" },
+      { "stationId": "SM13", "stationName": "Sarawak General Hospital" },
+      { "stationId": "SM14", "stationName": "Hikmah Exchange" }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "routeId": "ROUTE_GREEN",
+    "routeName": "Green Line",
+    "startStationId": "DM01",
+    "endStationId": "DM10",
+    "numberOfStops": 14,
+    "stopsSequence": [
+      "SR12", "DM01", "DM02", "DM03", "DM04", "DM05", "DM05AP", "DM06", "DM07",
+      "DM07AP", "DM08", "DM08AP", "DM09", "DM09A", "DM10"
+    ],
+    "basePrice": 6.50
+  },
+  {
+    "routeId": "ROUTE_RED",
+    "routeName": "Red Line",
+    "startStationId": "SR05",
+    "endStationId": "SR12",
+    "numberOfStops": 8,
+    "stopsSequence": [
+      "SR05", "SR06", "SR07", "SR08", "SR09", "SR10", "SR11", "SR12"
+    ],
+    "basePrice": 3.00
+  },
+  {
+    "routeId": "ROUTE_BLUE",
+    "routeName": "Blue Line",
+    "startStationId": "SM00P",
+    "endStationId": "SM14",
+    "numberOfStops": 15,
+    "stopsSequence": [
+      "SM00P", "SM01", "SM02", "SM03", "SM04", "SM05", "SM06", "SM07", "SM08",
+      "SM09", "SR10", "SM11", "SM12", "SM13", "SM14"
+    ],
+    "basePrice": 7.00
+  }
+]

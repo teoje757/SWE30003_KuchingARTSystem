@@ -1,0 +1,840 @@
+[
+  {
+    "notificationId": "a7430387-a1e3-4d7c-987f-a852064624df",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM19.00",
+    "notificationCreatedTime": "2025-06-03T17:02:18.501683",
+    "notificationPublishedTime": "2025-06-03T17:02:18.501695",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "9b72de65-8747-47d1-96e5-c92a800a79aa",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 1b054d83-e79e-4731-a816-35541a9b56e9 cancelled. Refund issued: 9 points",
+    "notificationCreatedTime": "2025-06-03T17:03:01.741965",
+    "notificationPublishedTime": "2025-06-03T17:03:01.741974",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "ad2d803e-f2bb-48d6-91b6-09275ba4e203",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM6.50",
+    "notificationCreatedTime": "2025-06-03T17:17:35.389806",
+    "notificationPublishedTime": "2025-06-03T17:17:35.389817",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "1106d9ba-ed14-42a2-8f57-b1a7bd6d3b19",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM2.50",
+    "notificationCreatedTime": "2025-06-03T17:17:47.724566",
+    "notificationPublishedTime": "2025-06-03T17:17:47.724578",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "1eafa4f9-b23f-4723-9b3d-bac5982fa68d",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 0fbcc36e-bdf6-4148-9011-368912acbed7 cancelled (no refund - trip departs within 24 hours)",
+    "notificationCreatedTime": "2025-06-03T18:49:26.104055",
+    "notificationPublishedTime": "2025-06-03T18:49:26.104063",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "9f1e8ccf-bc33-4c74-9165-f5c318885dc1",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 18fbe4df-c62f-46ac-8ada-965a9bf1c2c0 cancelled (no refund - trip departs within 24 hours)",
+    "notificationCreatedTime": "2025-06-03T19:08:19.211265",
+    "notificationPublishedTime": "2025-06-03T19:08:19.211279",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "de404c70-1caa-4011-a6b6-9bdb6602b020",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM7.00",
+    "notificationCreatedTime": "2025-06-03T20:41:03.409916",
+    "notificationPublishedTime": "2025-06-03T20:41:03.409925",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "fa98f8e4-99d0-4a01-b912-6736f08c13fd",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM7.00",
+    "notificationCreatedTime": "2025-06-03T20:47:09.405419",
+    "notificationPublishedTime": "2025-06-03T20:47:09.405428",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "807aced2-6ebd-44aa-bad7-a4184dccf273",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking b9a94a18-18b9-44a2-9621-d70b29cdd12a cancelled (no refund - within 24h)",
+    "notificationCreatedTime": "2025-06-03T20:47:14.555879",
+    "notificationPublishedTime": "2025-06-03T20:47:14.555886",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "5ab45004-3695-46e2-a6a5-c17feb95fee8",
+    "notificationType": "Points_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-03T20:49:20.875381",
+    "notificationPublishedTime": "2025-06-03T20:49:20.875391",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "a4f12a70-5ed7-41d7-aaf7-d918dba55d76",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM7.00",
+    "notificationCreatedTime": "2025-06-03T20:49:39.489459",
+    "notificationPublishedTime": "2025-06-03T20:49:39.489469",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "8d5f1854-7bcd-47f1-81c5-217e57069322",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #d3ea0a46-84bc-49a3-85c2-9973a4152e51 confirmed. Total: RM3.90",
+    "notificationCreatedTime": "2025-06-03T21:02:58.381025",
+    "notificationPublishedTime": "2025-06-03T21:02:58.381035",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "218875e1-18ba-4798-aa0c-8bc722688456",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM13.00",
+    "notificationCreatedTime": "2025-06-03T21:05:06.162749",
+    "notificationPublishedTime": "2025-06-03T21:05:06.162761",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "182b1c9c-2b3d-46e5-8151-1f38e30288c6",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Unread",
+    "notificationContent": "Booking 51651073-c6e1-4771-af32-2ddb9ac20460 cancelled. Refund: 6 points",
+    "notificationCreatedTime": "2025-06-03T21:05:16.710833",
+    "notificationPublishedTime": "2025-06-03T21:05:16.710845",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "2b7d7d0d-3162-416f-9c16-d7da863deea4",
+    "notificationType": "Points_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-03T21:05:19.884377",
+    "notificationPublishedTime": "2025-06-03T21:05:19.884387",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "8c611ed9-4eae-43d5-b21f-3a819d65a9fc",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #32618bc3-df33-4bb1-bff4-552c2e8d95c3 confirmed. Total: RM6.80",
+    "notificationCreatedTime": "2025-06-03T21:23:45.543531",
+    "notificationPublishedTime": "2025-06-03T21:23:45.543542",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "420494a7-147d-44b2-929e-2d793ae8d61c",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Unread",
+    "notificationContent": "Booking 2e257d5e-7756-4fc0-99de-a529df7b4af0 cancelled (no refund - within 24h)",
+    "notificationCreatedTime": "2025-06-03T21:26:42.659704",
+    "notificationPublishedTime": "2025-06-03T21:26:42.659714",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "f14b077e-b6e3-4c0d-9e03-1cf30517a9b1",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM13.00",
+    "notificationCreatedTime": "2025-06-03T21:27:16.684459",
+    "notificationPublishedTime": "2025-06-03T21:27:16.684474",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "929425c1-5089-4e5e-8709-ec70ec4aa73e",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM18.50",
+    "notificationCreatedTime": "2025-06-03T21:27:44.817178",
+    "notificationPublishedTime": "2025-06-03T21:27:44.817188",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "3b7eb25b-6ebd-4b50-a43d-cc32b70f8f1b",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Unread",
+    "notificationContent": "Booking 8925b636-2577-42d9-acb7-a0738fd918ca cancelled. Refund: 6 points",
+    "notificationCreatedTime": "2025-06-03T21:27:49.040666",
+    "notificationPublishedTime": "2025-06-03T21:27:49.040675",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "f14f0f62-ea36-42ae-9963-f9a8e9b66f0a",
+    "notificationType": "Points_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-03T21:27:51.472173",
+    "notificationPublishedTime": "2025-06-03T21:27:51.472183",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "113f50d7-f5bf-4b10-9e06-ff080f395d7f",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Unread",
+    "notificationContent": "Booking 5cb828e0-ddd0-49c2-8f73-60d2b12eba86 cancelled (no refund - within 24h)",
+    "notificationCreatedTime": "2025-06-03T21:28:16.981507",
+    "notificationPublishedTime": "2025-06-03T21:28:16.981514",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "9f1a5528-b5dc-4bc4-9f5d-9e883c36ab1c",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM0.00",
+    "notificationCreatedTime": "2025-06-03T23:01:35.368738",
+    "notificationPublishedTime": "2025-06-03T23:01:35.368747",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "f50d5af2-d70e-4df2-b594-5d86fcaf39d2",
+    "notificationType": "Order_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Merchandise order #d9327ae9-62cb-47d8-a3f6-f5e106cc0f8c confirmed. Total: RM50.00",
+    "notificationCreatedTime": "2025-06-04T02:08:27.222923",
+    "notificationPublishedTime": "2025-06-04T02:08:27.222937",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "a492b806-e863-4d97-a60e-3ce387cea7a6",
+    "notificationType": "Points_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-04T02:09:16.234197",
+    "notificationPublishedTime": "2025-06-04T02:09:16.234208",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "fadeb075-403c-4ba0-b6c2-a6137da9a199",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM26.00",
+    "notificationCreatedTime": "2025-06-04T02:10:21.804958",
+    "notificationPublishedTime": "2025-06-04T02:10:21.804973",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "c4e116da-9e49-4d33-92e1-6ae1b8e4d2ff",
+    "notificationType": "Points_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-04T02:10:31.120248",
+    "notificationPublishedTime": "2025-06-04T02:10:31.120258",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "092b406a-7bb2-4e30-aeb1-d5e3e3af9a5e",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM17.50",
+    "notificationCreatedTime": "2025-06-04T03:02:22.954381",
+    "notificationPublishedTime": "2025-06-04T03:02:22.954394",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "beb95609-bf0a-4df0-80b2-145eedd980fe",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM19.00",
+    "notificationCreatedTime": "2025-06-04T03:23:08.694800",
+    "notificationPublishedTime": "2025-06-04T03:23:08.694815",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "1784160c-9031-4add-8eb5-dc0c544bed88",
+    "notificationType": "Points_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-04T03:23:14.860948",
+    "notificationPublishedTime": "2025-06-04T03:23:14.860957",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "5d6df61d-e8ff-4d76-824d-59497d4579a1",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #53ce2731-60ec-4eb7-88ea-4474553b5f1b confirmed. Total: RM12.80",
+    "notificationCreatedTime": "2025-06-04T03:23:25.551936",
+    "notificationPublishedTime": "2025-06-04T03:23:25.551946",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "d77da76a-6590-4c1c-bf9b-042ebee04c7f",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip booking confirmed. Total paid: RM20.00",
+    "notificationCreatedTime": "2025-06-04T03:42:29.043337",
+    "notificationPublishedTime": "2025-06-04T03:42:29.043351",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "d4be2545-e5a8-4313-a51a-c364da3aab3b",
+    "notificationType": "Order_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Merchandise order #2a2e491f-70f1-4324-84cd-c5256f3d2902 confirmed. Total: RM6.90",
+    "notificationCreatedTime": "2025-06-04T04:14:41.997727",
+    "notificationPublishedTime": "2025-06-04T04:14:41.997741",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "6a1bd02a-514a-48ae-907d-a175a19a128e",
+    "notificationType": "Points_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-04T04:23:13.483911",
+    "notificationPublishedTime": "2025-06-04T04:23:13.483928",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "db7da1ea-1a8e-4524-8ffa-d1a86b052375",
+    "notificationType": "Order_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Merchandise order #6f79dc58-776e-4922-b994-606559113d87 confirmed. Total: RM6.80",
+    "notificationCreatedTime": "2025-06-04T04:25:11.935108",
+    "notificationPublishedTime": "2025-06-04T04:25:11.935117",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "a199ca30-e7d1-4348-a336-031bc84f1a7e",
+    "notificationType": "Order_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Merchandise order #225f8a67-f457-4aa8-bf4f-d6a0393febee confirmed. Total: RM111.80",
+    "notificationCreatedTime": "2025-06-04T04:33:27.917275",
+    "notificationPublishedTime": "2025-06-04T04:33:27.917304",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "7598aa32-a78d-4ee7-93b6-1f912ceaf01a",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM2.00",
+    "notificationCreatedTime": "2025-06-04T04:54:59.360312",
+    "notificationPublishedTime": "2025-06-04T04:54:59.360327",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "aa09d827-4695-4d4a-9a5e-01b6c625978a",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM19.50",
+    "notificationCreatedTime": "2025-06-04T04:55:16.524510",
+    "notificationPublishedTime": "2025-06-04T04:55:16.524524",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "3686a658-16ec-4589-b9f1-91f795e89f1c",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM12.00",
+    "notificationCreatedTime": "2025-06-04T04:55:35.808832",
+    "notificationPublishedTime": "2025-06-04T04:55:35.808845",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "16a3ec7b-7960-41b7-8268-b8d450ad826a",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM25.00",
+    "notificationCreatedTime": "2025-06-04T04:55:53.726507",
+    "notificationPublishedTime": "2025-06-04T04:55:53.726518",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "f711aaee-e9da-412b-aa00-19327638ede9",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM17.50",
+    "notificationCreatedTime": "2025-06-04T04:57:43.922166",
+    "notificationPublishedTime": "2025-06-04T04:57:43.922181",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "07f0cab2-f077-4df7-a7a4-86cddda734bb",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 053da810-ef05-4d97-bc50-af4e6c832709 cancelled. Refund: 6 points",
+    "notificationCreatedTime": "2025-06-04T05:00:18.807837",
+    "notificationPublishedTime": "2025-06-04T05:00:18.807849",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "b2e9bcea-6588-4df7-bd58-4977b8c5cab3",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM21.50",
+    "notificationCreatedTime": "2025-06-04T05:07:52.970107",
+    "notificationPublishedTime": "2025-06-04T05:07:52.970121",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "d9fdd8ae-8514-4f5f-9916-56339260f75f",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 0529a117-1990-480e-a88d-1dad1aad7f58 cancelled (no refund - within 24h)",
+    "notificationCreatedTime": "2025-06-04T05:08:01.891837",
+    "notificationPublishedTime": "2025-06-04T05:08:01.891844",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "f667f9bf-9236-46ce-a46c-ca2aee859952",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 0529a117-1990-480e-a88d-1dad1aad7f58 cancelled (no refund - within 24h)",
+    "notificationCreatedTime": "2025-06-04T05:19:01.379341",
+    "notificationPublishedTime": "2025-06-04T05:19:01.379352",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "f7de6197-5f1d-46ec-a245-94a0c181770f",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking ad3b9f4f-42c4-42ba-8415-dc5f01d34641 cancelled. Refund: 6 points",
+    "notificationCreatedTime": "2025-06-04T05:27:13.416310",
+    "notificationPublishedTime": "2025-06-04T05:27:13.416323",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "d7d15da7-e3dc-4142-826e-5051f172c311",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip BLUE_0810_SM00P has been rescheduled from 2025-06-20 06:28 to 2025-06-20 06:28",
+    "notificationCreatedTime": "2025-06-04T06:02:30.671343",
+    "notificationPublishedTime": "2025-06-04T06:02:30.671350",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "95b319cb-e094-4d66-9170-b8ed5c6a922e",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Your trip BLUE_0810_SM00P has been rescheduled from 2025-06-20 06:28 to 2025-06-20 06:28. Booking ID: 2e257d5e-7756-4fc0-99de-a529df7b4af0, 40c1af6b-fa24-405a-a1b0-0ba6c56691cb",
+    "notificationCreatedTime": "2025-06-04T06:02:30.689325",
+    "notificationPublishedTime": "2025-06-04T06:02:30.689333",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887",
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "94817390-9d1d-4357-b20c-0ea5188dd057",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip GREEN_0840_DM05 has started its journey",
+    "notificationCreatedTime": "2025-06-04T06:05:38.060698",
+    "notificationPublishedTime": "2025-06-04T06:05:38.060707",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "f3cd2666-9f2c-4950-a923-1d3e720de400",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip GREEN_1450_DM03 has been cancelled",
+    "notificationCreatedTime": "2025-06-04T06:06:04.845660",
+    "notificationPublishedTime": "2025-06-04T06:06:04.845668",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "e655d427-bb96-4627-802e-b9b7cb51c103",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #f94403d6-5b81-46c0-94a7-f2f7ab56b3f5 confirmed. Total: RM6.80",
+    "notificationCreatedTime": "2025-06-04T17:04:47.799817",
+    "notificationPublishedTime": "2025-06-04T17:04:47.799828",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "1f7dc7b3-1bce-42cc-97eb-048c511c2a4f",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #41e62fa0-dc85-4bbf-b4da-9b1adb4ae766 confirmed. Total: RM75.00",
+    "notificationCreatedTime": "2025-06-04T17:04:56.589182",
+    "notificationPublishedTime": "2025-06-04T17:04:56.589198",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "ca307beb-b141-43d9-8ad1-34db182eee03",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #98be928d-6953-454e-96be-cbcbba1a2cfd confirmed. Total: RM63.00",
+    "notificationCreatedTime": "2025-06-04T17:05:15.741185",
+    "notificationPublishedTime": "2025-06-04T17:05:15.741199",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "fc80461f-db33-48e0-8dac-c276444afe4b",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #15bb2cf3-8cd9-4435-8a96-038a445dd19f confirmed. Total: RM119.00",
+    "notificationCreatedTime": "2025-06-04T17:05:31.347279",
+    "notificationPublishedTime": "2025-06-04T17:05:31.347290",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "23ca174e-4138-4871-85cc-488a5fce49cd",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #d9dd7621-c671-412d-9f54-4086bfc81aac confirmed. Total: RM64.00",
+    "notificationCreatedTime": "2025-06-04T17:06:00.352370",
+    "notificationPublishedTime": "2025-06-04T17:06:00.352382",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "392003b3-9d68-4253-affa-9ee10653ac76",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #818f047b-23f2-488b-ab3f-7e43b46bec18 confirmed. Total: RM94.00",
+    "notificationCreatedTime": "2025-06-04T17:06:08.616025",
+    "notificationPublishedTime": "2025-06-04T17:06:08.616040",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "d7a2dc4d-ccdb-4875-ba1b-049611270d3f",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #9e68c3a8-ab6e-4861-9eee-2ec2ec3b0f79 confirmed. Total: RM100.00",
+    "notificationCreatedTime": "2025-06-04T17:06:17.340007",
+    "notificationPublishedTime": "2025-06-04T17:06:17.340022",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "6913300b-5068-4284-bbcf-4065673095d8",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #270f971f-627f-4168-8647-61c0cb4460c5 confirmed. Total: RM86.00",
+    "notificationCreatedTime": "2025-06-04T17:06:25.143993",
+    "notificationPublishedTime": "2025-06-04T17:06:25.144005",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "8640275e-e07e-4c40-a9c0-16f1e0818ad6",
+    "notificationType": "Order_update",
+    "notificationStatus": "Unread",
+    "notificationContent": "Merchandise order #3e497ac0-7c0e-42d8-ac5b-cdbb4df82ff4 confirmed. Total: RM40.30",
+    "notificationCreatedTime": "2025-06-04T17:06:44.846094",
+    "notificationPublishedTime": "2025-06-04T17:06:44.846106",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "c76b2a74-994e-43d9-ba00-9f125b988887"
+    ]
+  },
+  {
+    "notificationId": "2fdb6ce1-ce6f-4ebd-ac5a-a30e476baa6a",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip RED_0800_SR10 has been rescheduled from 2025-06-15 13:30 to 2025-06-15 13:30",
+    "notificationCreatedTime": "2025-06-04T19:11:58.121350",
+    "notificationPublishedTime": "2025-06-04T19:11:58.121361",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "9d3c97e6-79e5-473f-a858-c50f96ec3526",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip RED_0830_SR09 has been rescheduled from 2025-06-20 13:00 to 2025-06-20 13:00",
+    "notificationCreatedTime": "2025-06-04T19:20:44.957799",
+    "notificationPublishedTime": "2025-06-04T19:20:44.957808",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "5670b52d-d092-4679-b861-089012f6956b",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip RED_1330_SR09 has been rescheduled from 2025-06-15 12:15 to 2025-06-15 12:15",
+    "notificationCreatedTime": "2025-06-04T19:21:54.342551",
+    "notificationPublishedTime": "2025-06-04T19:21:54.342560",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "016ff433-30cf-47fb-8439-851c62ab7fd1",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM5.00",
+    "notificationCreatedTime": "2025-06-04T19:26:28.919105",
+    "notificationPublishedTime": "2025-06-04T19:26:28.919120",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "5f86a56e-6d4d-4b62-b39d-2b17a67cae1b",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip GREEN_1240_DM01 has been rescheduled from 2025-06-23 12:40 to 2025-06-15 23:10",
+    "notificationCreatedTime": "2025-06-04T19:29:24.216767",
+    "notificationPublishedTime": "2025-06-04T19:29:24.216777",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "7380fe79-3bd9-4f3c-86a1-914265e06c9f",
+    "notificationType": "Booking_confirmation",
+    "notificationStatus": "Read",
+    "notificationContent": "Trip booking confirmed. Total paid: RM56.00",
+    "notificationCreatedTime": "2025-06-04T19:30:45.222756",
+    "notificationPublishedTime": "2025-06-04T19:30:45.222774",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "9e12bb3a-6b68-4c43-bfa8-250fe161645c",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip BLUE_1830_SM13 has been rescheduled from 2025-06-04 18:30 to 2025-06-15 23:10",
+    "notificationCreatedTime": "2025-06-04T19:31:42.579872",
+    "notificationPublishedTime": "2025-06-04T19:31:42.579881",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "33fc866a-d326-4fd4-bf72-3165c097a348",
+    "notificationType": "Order_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Your trip BLUE_1830_SM13 has been rescheduled from 2025-06-04 18:30 to 2025-06-15 23:10. Booking ID: 4562bb40-019d-4dcd-923d-a1cd41c45050",
+    "notificationCreatedTime": "2025-06-04T19:31:42.602462",
+    "notificationPublishedTime": "2025-06-04T19:31:42.602471",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "3f1f8933-9e5e-4f5b-b207-97a97f79c057",
+    "notificationType": "System_alert",
+    "notificationStatus": "Unread",
+    "notificationContent": "Trip BLUE_0940_SR10 has been cancelled",
+    "notificationCreatedTime": "2025-06-04T19:42:16.172996",
+    "notificationPublishedTime": "2025-06-04T19:42:16.173008",
+    "recipientType": "admin"
+  },
+  {
+    "notificationId": "7c4acaeb-25f0-4fcb-a7ec-97ba79d3cf37",
+    "notificationType": "Points_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-04T20:53:21.682554",
+    "notificationPublishedTime": "2025-06-04T20:53:21.682566",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "98e56d6b-9c7f-445d-ae09-98fde00f046d",
+    "notificationType": "Order_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Merchandise order #6cc68daa-0608-42cd-b42a-60f9907e75f7 confirmed. Total: RM50.00",
+    "notificationCreatedTime": "2025-06-04T20:53:29.572122",
+    "notificationPublishedTime": "2025-06-04T20:53:29.572136",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "e7010c98-5e2f-4520-b394-c47ac80934a8",
+    "notificationType": "Points_update",
+    "notificationStatus": "Read",
+    "notificationContent": "Viewed loyalty points balance",
+    "notificationCreatedTime": "2025-06-04T20:53:39.237312",
+    "notificationPublishedTime": "2025-06-04T20:53:39.237322",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  },
+  {
+    "notificationId": "bfa5f7fb-f9fe-4129-a8f3-f7239e0490e5",
+    "notificationType": "Refund_status",
+    "notificationStatus": "Read",
+    "notificationContent": "Booking 2b7532dd-b252-4381-b8b9-c778706d1c7e cancelled. Refund: 6 points",
+    "notificationCreatedTime": "2025-06-04T20:53:48.198362",
+    "notificationPublishedTime": "2025-06-04T20:53:48.198373",
+    "recipientType": "user",
+    "recipientUserIds": [
+      "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+    ]
+  }
+]

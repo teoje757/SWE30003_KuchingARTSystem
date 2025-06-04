@@ -1,0 +1,778 @@
+[
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T17:01:43.996122",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-03T17:03:10.531043",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T17:15:35.920447",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-03T17:16:05.304856",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T17:16:17.901884",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T17:20:19.670568",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T17:20:45.049865",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T17:22:49.777375",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-03T17:25:36.681133",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T18:48:23.376142",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T19:08:06.959008",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-03T19:08:26.240154",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T20:40:42.521332",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T20:43:40.526217",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T20:46:57.344209",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T21:02:49.177681",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T21:26:57.764849",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-03T21:28:36.076632",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-03T21:28:44.635960",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-03T21:28:51.593102",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-03T23:01:08.930278",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T00:53:11.589207",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-04T00:54:03.321866",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T00:54:08.542118",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T00:56:21.817111",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "email": "",
+    "authenticationServiceTime": "2025-06-04T01:06:33.545412",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Failed"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T01:07:27.369198",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-04T01:42:15.791417",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T01:42:27.857762",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T01:43:40.217680",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T01:53:27.222424",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "email": "2",
+    "authenticationServiceTime": "2025-06-04T02:08:01.537515",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Failed"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T02:08:08.790700",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T02:09:44.473551",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Failed"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T02:09:54.800294",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T03:43:09.502626",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T03:59:42.454866",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T04:04:14.343766",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T04:14:22.028124",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Failed"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T04:14:31.320912",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T05:27:06.546378",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T05:28:53.723019",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T05:34:59.308796",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T06:12:47.530353",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T11:27:47.414097",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T11:28:31.618546",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Failed"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T11:28:38.967193",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "c76b2a74-994e-43d9-ba00-9f125b988887"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T17:09:48.833468",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "ca43b6ea-5f9a-4319-920c-ab897747ce7c"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:07:41.345396",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-04T19:07:44.448829",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:08:15.574340",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-04T19:08:17.512507",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:11:35.875370",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:20:05.144311",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-04T19:21:27.552610",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:21:33.139123",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-04T19:23:52.015034",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "je@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:25:35.828556",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Failed"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:25:44.753933",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-04T19:26:54.046913",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:27:00.207478",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-04T19:29:31.913201",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:29:41.364014",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  },
+  {
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+    "userType": "user",
+    "authenticationServiceTime": "2025-06-04T19:30:47.839335",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "admin@gmail.com",
+    "authenticationServiceTime": "2025-06-04T19:30:53.308081",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "admin",
+    "userId": "ADM001"
+  },
+  {
+    "userId": "ADM001",
+    "userType": "admin",
+    "authenticationServiceTime": "2025-06-04T20:52:38.459647",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "LOGOUT"
+  },
+  {
+    "email": "user@gmail.com",
+    "authenticationServiceTime": "2025-06-04T20:52:46.858793",
+    "authenticationServiceIpAddress": "127.0.0.1",
+    "authenticationServiceDeviceInfo": {
+      "os": "Windows",
+      "hostname": "JiaEn"
+    },
+    "authenticationServiceStatus": "Success",
+    "userType": "user",
+    "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8"
+  }
+]

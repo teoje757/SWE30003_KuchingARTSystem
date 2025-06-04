@@ -1,0 +1,34 @@
+[
+    {
+        "merchandiseId": "M001",
+        "merchandiseName": "T-Shirt",
+        "merchandiseDescription": "Comfortable cotton T-shirt with ART logo",
+        "merchandisePrice": 35.0,
+        "merchandiseStock": 5963,
+        "merchandiseCategory": "Apparel"
+    },
+    {
+        "merchandiseId": "M002",
+        "merchandiseName": "Postcard",
+        "merchandiseDescription": "Metal Postcard A Trip To Sarawak",
+        "merchandisePrice": 6.9,
+        "merchandiseStock": 1,
+        "merchandiseCategory": "Souvenirs"
+    },
+    {
+        "merchandiseId": "M003",
+        "merchandiseName": "Snack",
+        "merchandiseDescription": "Fourway Sarawak Laksa Keropok",
+        "merchandisePrice": 6.9,
+        "merchandiseStock": 4967,
+        "merchandiseCategory": "Snacks"
+    },
+    {
+        "merchandiseId": "M004",
+        "merchandiseName": "Keychain",
+        "merchandiseDescription": "Ikat Tepi 'Kopi Cats' - Short Lanyard with Shaker Keychain",
+        "merchandisePrice": 25,
+        "merchandiseStock": 7515,
+        "merchandiseCategory": "Accessories"
+    }
+]

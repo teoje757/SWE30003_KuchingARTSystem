@@ -1,0 +1,1219 @@
+[
+    {
+        "receipt_id": "2613cf1b-d2e3-43fe-b532-e215b2c58139",
+        "order_id": "772f5df5-b3ec-4221-90c5-31ab27b0224a",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T17:02:18.503584",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM09A to SR09",
+                "quantity": 2,
+                "price": 9.5,
+                "total": 19.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "1b054d83-e79e-4731-a816-35541a9b56e9",
+                "tripId": "GREEN_1830_DM09A",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "772f5df5-b3ec-4221-90c5-31ab27b0224a",
+                "fromStationId": "DM09A",
+                "toStationId": "SR09",
+                "departureTime": "2025-06-06T18:30:00",
+                "fare": 9.5,
+                "ticketCount": 2,
+                "totalFare": 19.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 19.0,
+        "final_amount": 19.0,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "26c02b23-0ba5-4855-8649-f4222702b14d",
+        "order_id": "4df33bdf-5c78-4efc-bce0-df974cbdb389",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T17:15:59.458668",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 2,
+                "price": 25,
+                "total": 50
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 50,
+        "final_amount": 40,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 10
+    },
+    {
+        "receipt_id": "b9b58f79-5825-4607-b930-9737723a9277",
+        "order_id": "5fa2255d-8182-4253-900e-e31f33fa2d83",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T17:17:35.391646",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR12 to DM01",
+                "quantity": 1,
+                "price": 6.5,
+                "total": 6.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "18fbe4df-c62f-46ac-8ada-965a9bf1c2c0",
+                "tripId": "GREEN_0820_SR12",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "5fa2255d-8182-4253-900e-e31f33fa2d83",
+                "fromStationId": "SR12",
+                "toStationId": "DM01",
+                "departureTime": "2025-06-03T08:20:00",
+                "fare": 6.5,
+                "ticketCount": 1,
+                "totalFare": 6.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 6.5,
+        "final_amount": 6.5,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "d2cfa1db-b066-4a3c-abb3-b21290a42d52",
+        "order_id": "135fd78b-e968-48c9-9705-3957d2c98dca",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T17:17:47.726632",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM02 to DM03",
+                "quantity": 1,
+                "price": 6.5,
+                "total": 6.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "0fbcc36e-bdf6-4148-9011-368912acbed7",
+                "tripId": "GREEN_0800_DM02",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "135fd78b-e968-48c9-9705-3957d2c98dca",
+                "fromStationId": "DM02",
+                "toStationId": "DM03",
+                "departureTime": "2025-06-03T08:00:00",
+                "fare": 6.5,
+                "ticketCount": 1,
+                "totalFare": 6.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 6.5,
+        "final_amount": 2.5,
+        "payment_method": "CREDIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 4
+    },
+    {
+        "receipt_id": "fb3d084d-d73b-4ab0-8bf9-40263569f96c",
+        "order_id": "a95f501a-8e65-4176-bebc-936a23422be3",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T20:41:03.412292",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SM00P to SM04",
+                "quantity": 1,
+                "price": 7.0,
+                "total": 7.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "7d4c9e07-6c76-4193-8bc1-eb780a4b25b9",
+                "tripId": "BLUE_1820_SM00P",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "a95f501a-8e65-4176-bebc-936a23422be3",
+                "fromStationId": "SM00P",
+                "toStationId": "SM04",
+                "departureTime": "2025-06-03T18:20:00",
+                "fare": 7.0,
+                "ticketCount": 1,
+                "totalFare": 7.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 7.0,
+        "final_amount": 7.0,
+        "payment_method": "CREDIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "0064d3d9-a400-491e-bd0a-d3a4947be936",
+        "order_id": "eb98f9cc-cea6-4b7a-a485-6d657fef7e28",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T20:47:09.407628",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SM12 to SM14",
+                "quantity": 1,
+                "price": 7.0,
+                "total": 7.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "b9a94a18-18b9-44a2-9621-d70b29cdd12a",
+                "tripId": "BLUE_0800_SM12",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "eb98f9cc-cea6-4b7a-a485-6d657fef7e28",
+                "fromStationId": "SM12",
+                "toStationId": "SM14",
+                "departureTime": "2025-06-03T08:00:00",
+                "fare": 7.0,
+                "ticketCount": 1,
+                "totalFare": 7.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 7.0,
+        "final_amount": 7.0,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "26d544de-3620-4e99-a105-b9a4942e3703",
+        "order_id": "11fe31a7-9448-42dd-9b14-c888c7fbbd98",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T20:49:39.491755",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SM00P to SM07",
+                "quantity": 1,
+                "price": 7.0,
+                "total": 7.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "2e257d5e-7756-4fc0-99de-a529df7b4af0",
+                "tripId": "BLUE_0810_SM00P",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "11fe31a7-9448-42dd-9b14-c888c7fbbd98",
+                "fromStationId": "SM00P",
+                "toStationId": "SM07",
+                "departureTime": "2025-06-03T08:10:00",
+                "fare": 7.0,
+                "ticketCount": 1,
+                "totalFare": 7.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 7.0,
+        "final_amount": 7.0,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "f499875b-0943-4fac-b2cb-7fb394018a35",
+        "order_id": "79d7942c-dbc7-4aea-ba4a-abb76f71bdb7",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T20:50:04.172666",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "T-Shirt",
+                "quantity": 1,
+                "price": 35.0,
+                "total": 35.0
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 35.0,
+        "final_amount": 35.0,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "9bc13b11-0451-41f4-867e-4a2af051ec62",
+        "order_id": "d3ea0a46-84bc-49a3-85c2-9973a4152e51",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T21:02:58.383363",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Postcard",
+                "quantity": 1,
+                "price": 6.9,
+                "total": 6.9
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 6.9,
+        "final_amount": 3.9000000000000004,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 3
+    },
+    {
+        "receipt_id": "f3877b88-d427-4d2b-b5b8-2b76c6092472",
+        "order_id": "2a246e44-f093-4643-a8f5-f3bf3f698494",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T21:05:06.166110",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM07",
+                "quantity": 2,
+                "price": 6.5,
+                "total": 13.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "51651073-c6e1-4771-af32-2ddb9ac20460",
+                "tripId": "GREEN_0810_DM01",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "2a246e44-f093-4643-a8f5-f3bf3f698494",
+                "fromStationId": "DM01",
+                "toStationId": "DM07",
+                "departureTime": "2025-06-10T08:10:00",
+                "fare": 6.5,
+                "ticketCount": 2,
+                "totalFare": 13.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 13.0,
+        "final_amount": 13.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "b5b866d9-a13c-4d7e-917c-21b5ace17ce5",
+        "order_id": "32618bc3-df33-4bb1-bff4-552c2e8d95c3",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T21:23:45.546064",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Postcard",
+                "quantity": 2,
+                "price": 6.9,
+                "total": 13.8
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 13.8,
+        "final_amount": 6.800000000000001,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "b01c9197-fcf3-4c9f-b948-034f8d56d7b8",
+        "order_id": "0c22e99d-5c80-462d-8465-8b6442af5965",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T21:27:16.687869",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM05AP",
+                "quantity": 2,
+                "price": 6.5,
+                "total": 13.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "5cb828e0-ddd0-49c2-8f73-60d2b12eba86",
+                "tripId": "GREEN_0810_DM01",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "0c22e99d-5c80-462d-8465-8b6442af5965",
+                "fromStationId": "DM01",
+                "toStationId": "DM05AP",
+                "departureTime": "2025-06-03T08:10:00",
+                "fare": 6.5,
+                "ticketCount": 2,
+                "totalFare": 13.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 13.0,
+        "final_amount": 13.0,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "b9286a2d-0ba3-4f8e-97cf-47a444935d9a",
+        "order_id": "15e23a19-3989-4297-ab59-d690c74e168c",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T21:27:44.819979",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM06",
+                "quantity": 3,
+                "price": 6.5,
+                "total": 19.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "8925b636-2577-42d9-acb7-a0738fd918ca",
+                "tripId": "GREEN_0820_DM01",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "15e23a19-3989-4297-ab59-d690c74e168c",
+                "fromStationId": "DM01",
+                "toStationId": "DM06",
+                "departureTime": "2025-06-09T08:20:00",
+                "fare": 6.5,
+                "ticketCount": 3,
+                "totalFare": 19.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 19.5,
+        "final_amount": 18.5,
+        "payment_method": "CREDIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 1
+    },
+    {
+        "receipt_id": "c274c7fe-4657-4da2-8dab-e27dfd52032a",
+        "order_id": "95ecd622-7727-4396-8bdc-62c0218d175b",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-03T23:01:35.371355",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SM00P to SM02",
+                "quantity": 1,
+                "price": 7.0,
+                "total": 7.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "40c1af6b-fa24-405a-a1b0-0ba6c56691cb",
+                "tripId": "BLUE_0810_SM00P",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "95ecd622-7727-4396-8bdc-62c0218d175b",
+                "fromStationId": "SM00P",
+                "toStationId": "SM02",
+                "departureTime": "2025-06-10T08:10:00",
+                "fare": 7.0,
+                "ticketCount": 1,
+                "totalFare": 7.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 7.0,
+        "final_amount": 0,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "aaf3f23b-a8da-4f2c-872b-5265e7b7e9d9",
+        "order_id": "d9327ae9-62cb-47d8-a3f6-f5e106cc0f8c",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T02:08:27.228519",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 2,
+                "price": 25,
+                "total": 50
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 50,
+        "final_amount": 50,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "bf50a96a-fba2-404b-a158-ea3311b918fd",
+        "order_id": "1d04fafe-e8ab-492f-86d6-344f0c1ac01f",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T02:10:21.811398",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM02",
+                "quantity": 4,
+                "price": 6.5,
+                "total": 26.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "859aacfd-ba16-4ee8-a8d6-d6e4fe3807f9",
+                "tripId": "GREEN_0800_DM01",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "1d04fafe-e8ab-492f-86d6-344f0c1ac01f",
+                "fromStationId": "DM01",
+                "toStationId": "DM02",
+                "departureTime": "2025-06-04T08:00:00",
+                "fare": 6.5,
+                "ticketCount": 4,
+                "totalFare": 26.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 26.0,
+        "final_amount": 26.0,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "490c6421-a422-4b88-a0b8-315c2943ea3e",
+        "order_id": "c825890a-22f5-4cee-9905-b6cf74f2ac61",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T03:02:22.958592",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR12 to DM01",
+                "quantity": 3,
+                "price": 6.5,
+                "total": 19.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "ec8f4413-5515-425f-8b9c-cfff9b76fdc0",
+                "tripId": "GREEN_0800_SR12",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "c825890a-22f5-4cee-9905-b6cf74f2ac61",
+                "fromStationId": "SR12",
+                "toStationId": "DM01",
+                "departureTime": "2025-06-22T08:00:00",
+                "fare": 6.5,
+                "ticketCount": 3,
+                "totalFare": 19.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 19.5,
+        "final_amount": 17.5,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 2
+    },
+    {
+        "receipt_id": "aad129f3-1085-4494-aaa9-dc01f4d66b18",
+        "order_id": "34651230-2979-4cc7-b8a7-e0d63ec64416",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T03:23:08.698241",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR07 to SM08",
+                "quantity": 2,
+                "price": 10.0,
+                "total": 20.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "ece68c5b-6aa4-4326-9b06-0eb4c56f0609",
+                "tripId": "RED_0810_SR07",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "34651230-2979-4cc7-b8a7-e0d63ec64416",
+                "fromStationId": "SR07",
+                "toStationId": "SM08",
+                "departureTime": "2025-06-08T08:10:00",
+                "fare": 10.0,
+                "ticketCount": 2,
+                "totalFare": 20.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 20.0,
+        "final_amount": 19.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 1
+    },
+    {
+        "receipt_id": "32b0d244-bac6-4f1b-a4f7-51573885fca4",
+        "order_id": "53ce2731-60ec-4eb7-88ea-4474553b5f1b",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T03:23:25.556864",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Postcard",
+                "quantity": 2,
+                "price": 6.9,
+                "total": 13.8
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 13.8,
+        "final_amount": 12.8,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 1
+    },
+    {
+        "receipt_id": "7be05d0f-60ea-45b8-9386-3d3bb8916dca",
+        "order_id": "ac43f91b-2b43-49b4-973b-9b83435fa0fb",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T03:42:29.048218",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR07 to SM08",
+                "quantity": 2,
+                "price": 10.0,
+                "total": 20.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "50da97bf-ee5d-4ffa-9b95-2a23256ef3e2",
+                "tripId": "RED_0810_SR07",
+                "userId": "c76b2a74-994e-43d9-ba00-9f125b988887",
+                "orderId": "ac43f91b-2b43-49b4-973b-9b83435fa0fb",
+                "fromStationId": "SR07",
+                "toStationId": "SM08",
+                "departureTime": "2025-06-22T08:10:00",
+                "fare": 10.0,
+                "ticketCount": 2,
+                "totalFare": 20.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 20.0,
+        "final_amount": 20.0,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "339fbed6-b0f2-457c-ab60-3ba3212aa225",
+        "order_id": "2a2e491f-70f1-4324-84cd-c5256f3d2902",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:14:42.001695",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Snack",
+                "quantity": 1,
+                "price": 6.9,
+                "total": 6.9
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 6.9,
+        "final_amount": 6.9,
+        "payment_method": "CREDIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "d501fe64-4fd4-4a78-ad78-2127baf50f69",
+        "order_id": "6f79dc58-776e-4922-b994-606559113d87",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:25:11.939023",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Snack",
+                "quantity": 2,
+                "price": 6.9,
+                "total": 13.8
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 13.8,
+        "final_amount": 6.800000000000001,
+        "payment_method": "BANK_TRANSFER",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "b537b307-0301-48fa-be29-8a0c34124f01",
+        "order_id": "225f8a67-f457-4aa8-bf4f-d6a0393febee",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:33:27.922294",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Snack",
+                "quantity": 2,
+                "price": 6.9,
+                "total": 13.8
+            },
+            {
+                "type": "merchandise",
+                "description": "T-Shirt",
+                "quantity": 3,
+                "price": 35.0,
+                "total": 105.0
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 118.8,
+        "final_amount": 111.8,
+        "payment_method": "BANK_TRANSFER",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "18ce1910-5225-4e48-8400-2b655b39cd56",
+        "order_id": "2ea36d9a-46c1-46db-b999-8e48429f57d4",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:54:59.364937",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR12 to DM01",
+                "quantity": 2,
+                "price": 6.5,
+                "total": 13.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "636d56a2-bd4d-4b61-9070-adc672516534",
+                "tripId": "GREEN_0810_SR12",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "2ea36d9a-46c1-46db-b999-8e48429f57d4",
+                "fromStationId": "SR12",
+                "toStationId": "DM01",
+                "departureTime": "2025-06-27T08:10:00",
+                "fare": 6.5,
+                "ticketCount": 2,
+                "totalFare": 13.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 13.0,
+        "final_amount": 2.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 11
+    },
+    {
+        "receipt_id": "e5f5f8f5-7ecc-4fe7-904d-f392282aad51",
+        "order_id": "64781deb-c099-44f6-a582-82a474364483",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:55:16.531214",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM02",
+                "quantity": 3,
+                "price": 6.5,
+                "total": 19.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "7476a186-50b2-4315-95df-36bc0e6bc451",
+                "tripId": "GREEN_0810_DM01",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "64781deb-c099-44f6-a582-82a474364483",
+                "fromStationId": "DM01",
+                "toStationId": "DM02",
+                "departureTime": "2025-06-25T08:10:00",
+                "fare": 6.5,
+                "ticketCount": 3,
+                "totalFare": 19.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 19.5,
+        "final_amount": 19.5,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "d2e0b267-be88-44ab-8dd4-688ed0dd69cf",
+        "order_id": "9c2a12c4-b05b-4976-85f9-96eb0e418be8",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:55:35.827329",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM06",
+                "quantity": 2,
+                "price": 6.5,
+                "total": 13.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "71c339af-a2f3-4ace-8bad-4acfd7fe2386",
+                "tripId": "GREEN_0820_DM01",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "9c2a12c4-b05b-4976-85f9-96eb0e418be8",
+                "fromStationId": "DM01",
+                "toStationId": "DM06",
+                "departureTime": "2025-06-24T08:20:00",
+                "fare": 6.5,
+                "ticketCount": 2,
+                "totalFare": 13.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 13.0,
+        "final_amount": 12.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 1
+    },
+    {
+        "receipt_id": "bd71126b-6097-4910-a706-403ee2f96040",
+        "order_id": "bf1f7467-a40e-44a4-bc4e-ffd56f549707",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:55:53.730700",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR12 to DM06",
+                "quantity": 4,
+                "price": 6.5,
+                "total": 26.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "ad3b9f4f-42c4-42ba-8415-dc5f01d34641",
+                "tripId": "GREEN_0820_SR12",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "bf1f7467-a40e-44a4-bc4e-ffd56f549707",
+                "fromStationId": "SR12",
+                "toStationId": "DM06",
+                "departureTime": "2025-06-22T08:20:00",
+                "fare": 6.5,
+                "ticketCount": 4,
+                "totalFare": 26.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 26.0,
+        "final_amount": 25.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 1
+    },
+    {
+        "receipt_id": "0ef298b7-24df-46bb-8852-2adaaeead9ca",
+        "order_id": "12797e3e-a945-43d1-b1c0-9123daf92ab7",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T04:57:43.926275",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from DM01 to DM02",
+                "quantity": 3,
+                "price": 6.5,
+                "total": 19.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "053da810-ef05-4d97-bc50-af4e6c832709",
+                "tripId": "GREEN_0800_DM01",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "12797e3e-a945-43d1-b1c0-9123daf92ab7",
+                "fromStationId": "DM01",
+                "toStationId": "DM02",
+                "departureTime": "2025-06-08T08:00:00",
+                "fare": 6.5,
+                "ticketCount": 3,
+                "totalFare": 19.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 19.5,
+        "final_amount": 17.5,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 2
+    },
+    {
+        "receipt_id": "c52c0fd9-9c28-4a3a-9fd1-3980dcf2b212",
+        "order_id": "a8232abc-e82e-4fca-88ad-78e42d7cc886",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T05:07:52.975780",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR11 to DM01",
+                "quantity": 3,
+                "price": 9.5,
+                "total": 28.5
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "0529a117-1990-480e-a88d-1dad1aad7f58",
+                "tripId": "RED_0800_SR11",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "a8232abc-e82e-4fca-88ad-78e42d7cc886",
+                "fromStationId": "SR11",
+                "toStationId": "DM01",
+                "departureTime": "2025-06-04T08:00:00",
+                "fare": 9.5,
+                "ticketCount": 3,
+                "totalFare": 28.5,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 28.5,
+        "final_amount": 21.5,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "cf1750f3-bda3-4410-b03b-14f1a55755ed",
+        "order_id": "f94403d6-5b81-46c0-94a7-f2f7ab56b3f5",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:04:47.821544",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Postcard",
+                "quantity": 2,
+                "price": 6.9,
+                "total": 13.8
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 13.8,
+        "final_amount": 6.800000000000001,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "e5149e92-a844-4693-9875-4b292b2ca4b9",
+        "order_id": "41e62fa0-dc85-4bbf-b4da-9b1adb4ae766",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:04:56.595179",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 3,
+                "price": 25,
+                "total": 75
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 75,
+        "final_amount": 75,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "d6ea2d37-a8e8-4b3d-b2de-b83e08015d86",
+        "order_id": "98be928d-6953-454e-96be-cbcbba1a2cfd",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:05:15.747747",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "T-Shirt",
+                "quantity": 2,
+                "price": 35.0,
+                "total": 70.0
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 70.0,
+        "final_amount": 63.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 7
+    },
+    {
+        "receipt_id": "e3f63d6d-ad32-4576-97b8-389b87f0fa67",
+        "order_id": "15bb2cf3-8cd9-4435-8a96-038a445dd19f",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:05:31.353371",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 5,
+                "price": 25,
+                "total": 125
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 125,
+        "final_amount": 119,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 6
+    },
+    {
+        "receipt_id": "7055fc2c-79ea-4668-8488-aa67a7bb0c6e",
+        "order_id": "d9dd7621-c671-412d-9f54-4086bfc81aac",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:06:00.358475",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 3,
+                "price": 25,
+                "total": 75
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 75,
+        "final_amount": 64,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 11
+    },
+    {
+        "receipt_id": "951167f8-36b9-4d7a-b125-4c9d94dd95bd",
+        "order_id": "818f047b-23f2-488b-ab3f-7e43b46bec18",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:06:08.625010",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 4,
+                "price": 25,
+                "total": 100
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 100,
+        "final_amount": 94,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 6
+    },
+    {
+        "receipt_id": "2474ea90-b016-448e-b406-721e3d12df62",
+        "order_id": "9e68c3a8-ab6e-4861-9eee-2ec2ec3b0f79",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:06:17.344985",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 4,
+                "price": 25,
+                "total": 100
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 100,
+        "final_amount": 100,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "0da41d41-0db1-4361-a9cc-ba9e5a56538d",
+        "order_id": "270f971f-627f-4168-8647-61c0cb4460c5",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:06:25.150109",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "T-Shirt",
+                "quantity": 3,
+                "price": 35.0,
+                "total": 105.0
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 105.0,
+        "final_amount": 86.0,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 19
+    },
+    {
+        "receipt_id": "f2335342-450a-4454-9496-c47fa9400152",
+        "order_id": "3e497ac0-7c0e-42d8-ac5b-cdbb4df82ff4",
+        "user_id": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "timestamp": "2025-06-04T17:06:44.852828",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Snack",
+                "quantity": 7,
+                "price": 6.9,
+                "total": 48.300000000000004
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 48.300000000000004,
+        "final_amount": 40.300000000000004,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 8
+    },
+    {
+        "receipt_id": "162e2297-e4cb-45b5-ab12-b30865765a88",
+        "order_id": "6e994162-a30e-42a9-a011-cb2e2024ef21",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T19:26:28.929575",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SR12 to DM01",
+                "quantity": 2,
+                "price": 6.5,
+                "total": 13.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "2b7532dd-b252-4381-b8b9-c778706d1c7e",
+                "tripId": "GREEN_1240_SR12",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "6e994162-a30e-42a9-a011-cb2e2024ef21",
+                "fromStationId": "SR12",
+                "toStationId": "DM01",
+                "departureTime": "2025-06-23T12:40:00",
+                "fare": 6.5,
+                "ticketCount": 2,
+                "totalFare": 13.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 13.0,
+        "final_amount": 5.0,
+        "payment_method": "PAYPAL",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 8
+    },
+    {
+        "receipt_id": "af290924-3bcc-4679-92fa-48904bf14889",
+        "order_id": "46b319d0-30d5-40a2-b5b4-7557e5f24d25",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T19:30:45.230347",
+        "items": [
+            {
+                "type": "trip",
+                "description": "Trip from SM13 to SM14",
+                "quantity": 8,
+                "price": 7.0,
+                "total": 56.0
+            }
+        ],
+        "trip_bookings": [
+            {
+                "tripBookingId": "4562bb40-019d-4dcd-923d-a1cd41c45050",
+                "tripId": "BLUE_1830_SM13",
+                "userId": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+                "orderId": "46b319d0-30d5-40a2-b5b4-7557e5f24d25",
+                "fromStationId": "SM13",
+                "toStationId": "SM14",
+                "departureTime": "2025-06-04T18:30:00",
+                "fare": 7.0,
+                "ticketCount": 8,
+                "totalFare": 56.0,
+                "bookingStatus": "Confirmed"
+            }
+        ],
+        "total_amount": 56.0,
+        "final_amount": 56.0,
+        "payment_method": "E_WALLET",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    },
+    {
+        "receipt_id": "a97eb708-d8e6-4e2e-88a4-abe75edfe83a",
+        "order_id": "6cc68daa-0608-42cd-b42a-60f9907e75f7",
+        "user_id": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "timestamp": "2025-06-04T20:53:29.583239",
+        "items": [
+            {
+                "type": "merchandise",
+                "description": "Keychain",
+                "quantity": 2,
+                "price": 25,
+                "total": 50
+            }
+        ],
+        "trip_bookings": [],
+        "total_amount": 50,
+        "final_amount": 50,
+        "payment_method": "DEBIT_CARD",
+        "payment_status": "PAID",
+        "order_status": "Confirmed",
+        "points_redeemed": 0.0
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "5977476b-ccec-4cd6-aa2f-da20b074b3fd": {
+        "userID": "5977476b-ccec-4cd6-aa2f-da20b074b3fd",
+        "userEmail": "zxc@gmail.com",
+        "userName": "Nick",
+        "userPassword": "Qwerty@12345678",
+        "userContactNumber": "60123456789",
+        "userRole": "user"
+    },
+    "c76b2a74-994e-43d9-ba00-9f125b988887": {
+        "userID": "c76b2a74-994e-43d9-ba00-9f125b988887",
+        "userEmail": "je@gmail.com",
+        "userName": "Jia En Teo",
+        "userPassword": "Enenben10*",
+        "userContactNumber": "60146831468",
+        "userRole": "user"
+    },
+    "2b200348-6b07-4d2e-9f3a-09f0228e33cd": {
+        "userID": "2b200348-6b07-4d2e-9f3a-09f0228e33cd",
+        "userEmail": "jayne@gmail.com",
+        "userName": "Jayne",
+        "userPassword": "Jayne123*",
+        "userContactNumber": "60111097162",
+        "userRole": "user"
+    },
+    "454714e7-058b-45d1-aeed-d4631ffc390f": {
+        "userID": "454714e7-058b-45d1-aeed-d4631ffc390f",
+        "userEmail": "lyx@gmail.com",
+        "userName": "Yx12345*",
+        "userPassword": "Yx12345*",
+        "userContactNumber": "60123456789",
+        "userRole": "user"
+    },
+    "49d2951e-2bb6-45aa-bc4d-5118b00061f8": {
+        "userID": "49d2951e-2bb6-45aa-bc4d-5118b00061f8",
+        "userEmail": "user@gmail.com",
+        "userName": "User",
+        "userPassword": "User123*",
+        "userContactNumber": "60123456789",
+        "userRole": "user"
+    },
+    "ca43b6ea-5f9a-4319-920c-ab897747ce7c": {
+        "userID": "ca43b6ea-5f9a-4319-920c-ab897747ce7c",
+        "userEmail": "user@gmail.com",
+        "userName": "jia",
+        "userPassword": "Enenben10*",
+        "userContactNumber": "60123456789",
+        "userRole": "user"
+    }
+}
